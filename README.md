@@ -7,4 +7,3 @@
 ## Lessons learned
 
 ## Technology / Skills Used
-# FoodTruckProject
