@@ -6,5 +6,5 @@
 
 ## Lessons learned
 
-## Technology / Skills Used# FoodTruckProject
+## Technology / Skills Used
 # FoodTruckProject
