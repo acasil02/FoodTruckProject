@@ -18,6 +18,7 @@ public class FoodTruck {
 		this.foodType = foodType;
 		this.rating = rating;
 		this.truckId = idGenerator;
+		idGenerator++;
 		
 	}
 
